@@ -10,7 +10,9 @@ Part 2
 
 Name: Marwan Issa – 1170704
 Dr. Mohammad Kharmah
-
+<br>
+<br>
+<br>
 
 •	Nurse: This resource represents the nurses working in the hospital. It includes information such as nurse ID, name, contact details, qualifications, shift timings, and any other relevant details related to nursing staff management. 
 
@@ -19,6 +21,10 @@ Dr. Mohammad Kharmah
 •	Medication: This resource represents the medications and drugs used within the hospital. It includes information such as medication ID, name, dosage, instructions, stock availability, expiration dates, and any other relevant details for managing medication inventory and prescribing them to patients. 
 
 •	Lab Test: This resource represents the various laboratory tests conducted for patients. It includes information such as test ID, name, description, associated department or specialty, test results, and any other necessary details related to conducting and interpreting lab tests.
+
+<br>
+<br>
+<br>
 
 
 ![digram](https://github.com/marwanabsi/Marwan1170704/assets/38217623/74c66370-908b-4795-9678-a5050fac1480)
@@ -35,6 +41,9 @@ Dr. Mohammad Kharmah
 
 ![image](https://github.com/marwanabsi/Marwan1170704/assets/38217623/cdd61de2-56fd-4a7b-af6b-0134a9bd5b77)
 
+<br>
+<br>
+<br>
 
 The system allows for the efficient management of nurses, wards, medications, and lab tests within the hospital. 
 the system enables operations such as creating, reading, updating, and deleting data related to these resources and aims to streamline hospital operations, including staff management, patient admissions, medication inventory, and lab testing processes.
