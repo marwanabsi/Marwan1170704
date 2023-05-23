@@ -14,6 +14,14 @@ Dr. Mohammad Kharmah
 <br>
 <br>
 
+
+The system allows for the efficient management of nurses, wards, medications, and lab tests within the hospital. 
+the system enables operations such as creating, reading, updating, and deleting data related to these resources and aims to streamline hospital operations, including staff management, patient admissions, medication inventory, and lab testing processes.
+
+<br>
+<br>
+<br>
+
 •	Nurse: This resource represents the nurses working in the hospital. It includes information such as nurse ID, name, contact details, qualifications, shift timings, and any other relevant details related to nursing staff management. 
 
 •	Ward: This resource represents the different wards or units within the hospital, such as ICU (Intensive Care Unit), general ward, pediatric ward, etc. It contains information about the ward ID, name, capacity, availability, and other details to effectively manage patient admissions and assign them to appropriate wards. 
@@ -41,9 +49,5 @@ Dr. Mohammad Kharmah
 
 ![image](https://github.com/marwanabsi/Marwan1170704/assets/38217623/cdd61de2-56fd-4a7b-af6b-0134a9bd5b77)
 
-<br>
-<br>
-<br>
 
-The system allows for the efficient management of nurses, wards, medications, and lab tests within the hospital. 
-the system enables operations such as creating, reading, updating, and deleting data related to these resources and aims to streamline hospital operations, including staff management, patient admissions, medication inventory, and lab testing processes.
+
