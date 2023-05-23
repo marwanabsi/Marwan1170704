@@ -3,9 +3,9 @@
 <br>
 <br>
 
-**WEB SERVICES TECHNOLOGY**
+<h2>WEB SERVICES TECHNOLOGY</h2>
 
-Design and implement Hospital Management System Rest APIs
+<h3>Design and implement Hospital Management System Rest APIs</h3>
 Part 2
 
 Name: Marwan Issa – 1170704
